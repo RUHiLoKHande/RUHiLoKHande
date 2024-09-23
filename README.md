@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RUHiLoKHande
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Data Data Science 
 - 🌱 I’m currently learning Big data and Cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (rushilokhande4655@gmail.com)
